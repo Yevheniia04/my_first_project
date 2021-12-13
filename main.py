@@ -31,4 +31,6 @@ def calculator():
     except:
         print("непонимаю")
 print(calculator())
+
+print('blablabla')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
